@@ -1,4 +1,4 @@
-# Voice Recognization on Discord Bot
+# Speech-to-Text Bot
 
 **TTS 系の BOT は世界に多く存在するのに、STT 系の BOT はなかなか見る事が出来ないので自作します。**（宣言）
 
