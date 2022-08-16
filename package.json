@@ -1,0 +1,14 @@
+{
+  "name": "discord_speechtotext",
+  "version": "1.0.0",
+  "description": "eoeo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Assault#1892",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  }
+}
